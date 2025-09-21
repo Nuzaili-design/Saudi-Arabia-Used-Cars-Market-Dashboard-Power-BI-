@@ -8,13 +8,21 @@ An interactive Power BI dashboard built using a dataset of used cars in Saudi Ar
 Some key insights:
 
 Average Car Price: 53.7K SAR across all listings.
+
 Top City by Sales: Riyadh leads with 187M SAR total value.
+
 Top Brand by Market Value: Toyota dominates at 98M SAR, followed by Mercedes and Lexus.
+
 Most Expensive Brands (Avg. Price): Rolls Royce, Bentley, and Aston Martin top the luxury segment.
+
 Gear Type Preference: 87% of cars are automatic, only 13% manual.
+
 Regional Comparison: Dammam and Jeddah follow Riyadh as major car markets; smaller cities like Taef and Khobar contribute far less.
 
+
+
 To Explor it: 
+
 https://app.powerbi.com/view?r=eyJrIjoiMDJiNzYzODktOGRlMC00ZDc0LWIwZGMtYzNjNGE1MmM5NDE2IiwidCI6IjAwZTczYzA2LTQ2NmUtNDk1MS05YjJjLWIxMTI3N2RkNjIzMiIsImMiOjl9
 
 
